@@ -1,0 +1,10 @@
+
+PHP samples for using einztein apis
+
+About JSON
+==========
+
+PHP language supports JSON by the language itself, so there is no
+dependence and we don't need install anything for JSON support.
+
+
